@@ -1,0 +1,72 @@
+[
+    {
+        "_id": "60d21b4667d0d8992e610c85",
+        "nombre": "Pan",
+        "descripcion": "Pan crujiente, ideal para el desayuno.",
+        "precio": 50,
+        "imagen": "pan.jpg"
+    },
+    {
+        "_id": "60d21b4667d0d8992e610c86",
+        "nombre": "Cookies",
+        "descripcion": "Deliciosas galletas de chocolate.",
+        "precio": 30,
+        "imagen": "cookies.jpg"
+    },
+    {
+        "_id": "60d21b4667d0d8992e610c87",
+        "nombre": "Croissants",
+        "descripcion": "Croissants, perfectos para cualquier ocasión.",
+        "precio": 40,
+        "imagen": "croissants.jpg"
+    },
+    {
+        "_id": "60d21b4667d0d8992e610c88",
+        "nombre": "Donuts",
+        "descripcion": "Donuts esponjosos con glaseado.",
+        "precio": 25,
+        "imagen": "donuts.jpg"
+    },
+    {
+        "_id": "60d21b4667d0d8992e610c89",
+        "nombre": "Chipa",
+        "descripcion": "Panecillos de queso típicos de la región.",
+        "precio": 20,
+        "imagen": "chipa.jpg"
+    },
+    {
+        "_id": "60d21b4667d0d8992e610c8a",
+        "nombre": "Macarons",
+        "descripcion": "Exquisitos con rellenos variados.",
+        "precio": 60,
+        "imagen": "macarons.jpg"
+    },
+    {
+        "_id": "60d21b4667d0d8992e610c8b",
+        "nombre": "Torta",
+        "descripcion": "Torta ideal para celebraciones.",
+        "precio": 100,
+        "imagen": "torta.jpg"
+    },
+    {
+        "_id": "60d21b4667d0d8992e610c8c",
+        "nombre": "Sandwich",
+        "descripcion": "Sandwiches frescos con ingredientes de calidad.",
+        "precio": 50,
+        "imagen": "sandwich.jpg"
+    },
+    {
+        "_id": "60d21b4667d0d8992e610c8d",
+        "nombre": "Café",
+        "descripcion": "Café recién molido.",
+        "precio": 15,
+        "imagen": "cafe.jpg"
+    },
+    {
+        "_id": "60d21b4667d0d8992e610c8e",
+        "nombre": "Bombones",
+        "descripcion": "Bombones de chocolate rellenos de licor y cremas.",
+        "precio": 70,
+        "imagen": "bombones.jpg"
+    }
+]
